@@ -169,8 +169,8 @@
         "tags": [
           "users"
         ],
-        "summary": "Show user profile",
-        "description": "Show user profile",
+        "summary": "Turn user into admin",
+        "description": "Turn user into admin",
         "parameters": [
           {
             "name": "user_id",
